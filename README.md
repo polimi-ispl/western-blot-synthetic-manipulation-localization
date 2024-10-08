@@ -19,7 +19,7 @@ Synthetic images from this dataset are available, along with their ground truth 
 data/automatically_tampered
 ```
 
-## Realistically manipulated Western blots
+### Realistically manipulated Western blots
 A dataset of manually tampered Western blots. To emulate real-world forgery, synthetic images in this dataset have been created by manipulating pristine images by hand. 
 We employed three different tampering tools: DALL·E 2, Cleanup, and GIMP.  
 Synthetic images, divided by tampering method, and ground truth masks are available at:  
