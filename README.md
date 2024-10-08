@@ -40,6 +40,8 @@ conda activate detection_pbp
 
 ## Run the Synthetic Image Detector
 
+TODO
+
 ## How to cite
 
 ```bibtex
