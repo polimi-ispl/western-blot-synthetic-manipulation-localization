@@ -1,0 +1,22 @@
+name: detection_pbp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - albumentations
+  - ffmpeg
+  - matplotlib
+  - pillow
+  - pip
+  - python=3.8
+  - scikit-image
+  - scikit-learn
+  - scipy
+  - pandas
+  - numpy
+  - tqdm
+  - pip:
+    - gputil
+    - tensorboard
+    - efficientnet-pytorch
+    - pytorchcv
