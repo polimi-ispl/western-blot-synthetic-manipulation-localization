@@ -1,5 +1,4 @@
-# Localization of Synthetic Manipulations  
-# in Western Blot Images
+# Localization of Synthetic Manipulations in Western Blot Images
 
 Official repository of the [paper](https://arxiv.org/pdf/2408.13786), accepted at IEEE WIFS 2024.  
 Authors: Anmol Manjunath, Viola Negroni, Sara Mandelli, Daniel Moreira, Paolo Bestagini.
@@ -17,3 +16,11 @@ Additionally, we release the scripts to reproduce the experiments presented in t
 ## Run the Synthetic Image Detector
 
 ## How to cite
+
+```bibtex
+@article{manjunath2024localization,
+  title={Localization of Synthetic Manipulations in Western Blot Images},
+  author={Manjunath, Anmol and Negroni, Viola and Mandelli, Sara and Moreira, Daniel and Bestagini, Paolo},
+  journal={arXiv preprint arXiv:2408.13786},
+  year={2024}
+}
