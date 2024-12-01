@@ -28,7 +28,7 @@ Synthetic images, divided by tampering method, and ground truth masks are availa
 data/tampered_blots
 ```
 
-Both these datasets have been built on top of a subset of the dataset Western blots dataset released by _Mandelli et al._ in [this paper](https://ieeexplore.ieee.org/abstract/document/9785655).
+Both these datasets have been built on top of a subset of the Western blots dataset released by _Mandelli et al._ in [this paper](https://ieeexplore.ieee.org/abstract/document/9785655).
 
 ## Prerequisites
 
