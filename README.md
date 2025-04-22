@@ -40,7 +40,10 @@ conda activate detection_pbp
 
 ## Run the Synthetic Image Detector
 
-TODO
+To deploy our model, once cloned the repository and created the environment, just run the main script:
+```bash
+python test_model.py
+```
 
 ## How to cite
 
