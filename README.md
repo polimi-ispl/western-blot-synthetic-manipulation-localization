@@ -42,7 +42,7 @@ conda activate detection_pbp
 
 To deploy our model, once cloned the repository and created the environment, just run the main script:
 ```bash
-python test_imagesl.py
+python test_images.py
 ```
 
 ## How to cite
