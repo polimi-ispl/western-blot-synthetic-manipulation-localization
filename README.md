@@ -48,9 +48,9 @@ python test_images.py
 ## How to cite
 
 ```bibtex
-@article{manjunath2024localization,
+@inproceedings{manjunath2024localization,
   title={Localization of Synthetic Manipulations in Western Blot Images},
   author={Manjunath, Anmol and Negroni, Viola and Mandelli, Sara and Moreira, Daniel and Bestagini, Paolo},
-  journal={arXiv preprint arXiv:2408.13786},
-  year={2024}
+  booktitle={IEEE International Workshop on Information Forensics and Security (WIFS)},
+  year={2024},
 }
